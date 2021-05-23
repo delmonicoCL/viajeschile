@@ -13,42 +13,37 @@ body{
     margin: 0;
 }
 
-/* navbar*/
-
 header nav img{
-    width: 5%;
+    width: 10%;
   }
 
-/*quienes somos*/
 
-#QuienesSomos p{
+#quienessomos p{
     font-family: "raleway";
     font-weight: 300;
 }
 
-#QuienesSomos div.fondo{
+#quienessomos div.fondo{
     background-color: #239DBF;
     text-align: center;
 }
 
-#QuienesSomos div i{
+#quienessomos div i{
     font-size: 23px;
 }
 
-#QuienesSomos hr.linea{
+#quienessomos hr.linea{
     width: auto;
     height: 1px;
     background-color: #239DBF;
 }
 
-/*destacados*/
-
-#Destacados h2{
+#destacados h2{
     font-family: "raleway";
     font-weight: 500; 
 }
 
-#Destacados hr.linea{
+#destacados hr.linea{
     width: auto;
     height: 1px;
     background-color: #239DBF;
@@ -63,9 +58,8 @@ img.card-img-top.acortar{
     height: 168px;
 }
 
-/*contacto*/
 
-#Contacto h2{
+#contacto h2{
     font-family: "raleway";
     font-weight: 500;
 }
