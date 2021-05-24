@@ -64,7 +64,7 @@ img.card-img-top.acortar{
     font-weight: 500;
 }
 
-#Contacto hr.linea{
+#contacto hr.linea{
     width: auto;
     height: 1px;
     background-color: #239DBF;
@@ -72,11 +72,11 @@ img.card-img-top.acortar{
 
 /*footer*/
 
-#Footer{
+#footer{
     background-color:#239DBF;
 }
 
-#Footer a i{
+#footer a i{
     font-size: 36px;
     font-weight: 400;
 }
