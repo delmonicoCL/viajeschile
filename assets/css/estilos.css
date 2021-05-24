@@ -5,6 +5,12 @@ body{
     font-family: "raleway"
 }
 
+html{
+
+    scroll-behavior: smooth;
+
+}
+
 .h1-home {
     color: transparent;
     text-indent: -9999px;
